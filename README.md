@@ -1,5 +1,4 @@
-# Odin Recipes
-Projet : Recettes
+# Odin Recipe
 Ce projet est réalisé dans le cadre du parcours The Odin Project. Il consiste à créer un site web basique de recettes pour mettre en pratique les notions fondamentales de HTML.
 
 ## Compétences démontrées
